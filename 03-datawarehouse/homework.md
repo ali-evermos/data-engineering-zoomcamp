@@ -18,7 +18,7 @@ Create a table in BQ using the Green Taxi Trip Records for 2022 (do not partitio
 ## Question 1:
 Question 1: What is count of records for the 2022 Green Taxi Data??
 - 65,623,481
-- **840,402**
+-  <span style="color: blue;">840,402</span>
 - 1,936,423
 - 253,647
 
@@ -30,7 +30,7 @@ What is the estimated amount of data that will be read when this query is execut
 
 - 0 MB for the External Table and 6.41MB for the Materialized Table
 - 18.82 MB for the External Table and 47.60 MB for the Materialized Table
-- **0 MB for the External Table and 0MB for the Materialized Table**
+- <span style="color: blue;">0 MB for the External Table and 0MB for the Materialized Table</span>
 - 2.14 MB for the External Table and 0MB for the Materialized Table
 
 ![Alt text](image-1.png)
@@ -41,7 +41,7 @@ How many records have a fare_amount of 0?
 - 12,488
 - 128,219
 - 112
-- **1,622**
+- <span style="color: blue;">1,622</span>
 
 ![Alt text](image-3.png)
 
